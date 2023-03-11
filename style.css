@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow-y: scroll;
+}
+
+.box {
+  position: relative;
+  width: 27%;
+  height: 100px;
+  background: black;
+  margin: 10px;
+  border: none;
+  transition: 0.5s;
+}
+
+.box:hover {
+  transform: scale(1.2);
+}
