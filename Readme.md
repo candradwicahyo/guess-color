@@ -32,6 +32,6 @@ git clone https://github.com/candradwicahyo/guess-color.git
 
 ## preview dan demo 
 
-![preview](https://github.com/candradwicahyo/guess-color/blob/master/image.jpg) untuk mencoba demo
+![preview](https://github.com/candradwicahyo/guess-color/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/guess-color)
+[tekan link ini](https://candradwicahyo.github.io/guess-color) untuk mencoba demo
